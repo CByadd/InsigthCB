@@ -1,0 +1,544 @@
+{
+  "chapters": [
+    {
+      "chapter": "chapter-1",
+      "questions": [
+        {
+          "question": "What is the primary objective of financial management?",
+          "options": [
+            "Profit Maximization",
+            "Wealth Maximization",
+            "Sales Maximization",
+            "Cost Minimization"
+          ],
+          "answer": "Wealth Maximization"
+        },
+        {
+          "question": "Which of the following is an example of a direct tax?",
+          "options": [
+            "Sales Tax",
+            "Value Added Tax (VAT)",
+            "Income Tax",
+            "Excise Duty"
+          ],
+          "answer": "Income Tax"
+        },
+        {
+          "question": "Which financial statement shows the financial position of a company at a specific point in time?",
+          "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Statement of Retained Earnings",
+            "Balance Sheet"
+          ],
+          "answer": "Balance Sheet"
+        },
+        {
+          "question": "What is the term for the rate at which one currency can be exchanged for another?",
+          "options": [
+            "Exchange Rate",
+            "Interest Rate",
+            "Inflation Rate",
+            "Discount Rate"
+          ],
+          "answer": "Exchange Rate"
+        }
+      ]
+    },
+    {
+      "chapter": "chapter-2",
+      "questions": [
+        {
+          "question": "Which financial ratio measures a company's ability to meet its short-term obligations?",
+          "options": [
+            "Current Ratio",
+            "Debt-to-Equity Ratio",
+            "Return on Equity",
+            "Price-to-Earnings Ratio"
+          ],
+          "answer": "Current Ratio"
+        },
+        {
+          "question": "Which of the following is considered a fixed asset?",
+          "options": [
+            "Inventory",
+            "Cash",
+            "Machinery",
+            "Accounts Receivable"
+          ],
+          "answer": "Machinery"
+        },
+        {
+          "question": "Which accounting concept assumes that a business will continue to operate indefinitely?",
+          "options": [
+            "Going Concern",
+            "Consistency",
+            "Prudence",
+            "Materiality"
+          ],
+          "answer": "Going Concern"
+        },
+        {
+          "question": "Which of the following is a source of short-term finance?",
+          "options": [
+            "Trade Credit",
+            "Equity Shares",
+            "Debentures",
+            "Term Loans"
+          ],
+          "answer": "Trade Credit"
+        },
+        {
+          "question": "Which type of business organization has the advantage of limited liability?",
+          "options": [
+            "Sole Proprietorship",
+            "Partnership",
+            "Corporation",
+            "Cooperative"
+          ],
+          "answer": "Corporation"
+        }
+      ]
+    },
+    {
+      "chapter": "chapter-3",
+      "questions": [
+        {
+          "question": "What is the term for the reduction in the value of a currency in terms of another currency?",
+          "options": [
+            "Depreciation",
+            "Appreciation",
+            "Inflation",
+            "Deflation"
+          ],
+          "answer": "Depreciation"
+        },
+        {
+          "question": "Which of the following is a characteristic of monopolistic competition?",
+          "options": [
+            "Many Sellers and Buyers",
+            "Single Seller",
+            "Barriers to Entry",
+            "Differentiated Products"
+          ],
+          "answer": "Differentiated Products"
+        },
+        {
+          "question": "Which of the following is a source of external finance?",
+          "options": [
+            "Bank Loan",
+            "Retained Earnings",
+            "Owner’s Capital",
+            "Revenue from Sales"
+          ],
+          "answer": "Bank Loan"
+        },
+        {
+          "question": "Which financial statement shows a company's revenues and expenses during a specific period?",
+          "options": [
+            "Balance Sheet",
+            "Income Statement",
+            "Cash Flow Statement",
+            "Statement of Retained Earnings"
+          ],
+          "answer": "Income Statement"
+        },
+        {
+          "question": "What is the term for the money invested by the owners of a business?",
+          "options": [
+            "Debt",
+            "Equity",
+            "Liability",
+            "Asset"
+          ],
+          "answer": "Equity"
+        }
+      ]
+    },
+    {
+      "chapter": "chapter-4",
+      "questions": [
+        {
+          "question": "Which method of depreciation assumes the asset will lose value more quickly in its early years?",
+          "options": [
+            "Reducing Balance Method",
+            "Straight Line Method",
+            "Sum of the Years' Digits",
+            "Units of Production Method"
+          ],
+          "answer": "Reducing Balance Method"
+        },
+        {
+          "question": "Which of the following is a characteristic of perfect competition?",
+          "options": [
+            "Many Sellers and Buyers",
+            "Differentiated Products",
+            "Barriers to Entry",
+            "Single Seller"
+          ],
+          "answer": "Many Sellers and Buyers"
+        },
+        {
+          "question": "Which of the following best describes equity financing?",
+          "options": [
+            "Borrowing money from financial institutions",
+            "Raising capital by issuing shares",
+            "Selling fixed assets to raise funds",
+            "Increasing company profits through cost-cutting"
+          ],
+          "answer": "Raising capital by issuing shares"
+        },
+        {
+          "question": "Which principle states that expenses should be matched with revenues in the period they are incurred?",
+          "options": [
+            "Matching Principle",
+            "Revenue Recognition Principle",
+            "Consistency Principle",
+            "Full Disclosure Principle"
+          ],
+          "answer": "Matching Principle"
+        },
+        {
+          "question": "Which of the following is a liquidity ratio?",
+          "options": [
+            "Return on Assets (ROA)",
+            "Debt-to-Equity Ratio",
+            "Quick Ratio",
+            "Earnings Per Share (EPS)"
+          ],
+          "answer": "Quick Ratio"
+        }
+      ]
+    },
+    {
+      "chapter": "chapter-5",
+      "questions": [
+        {
+          "question": "What is the term for a market structure with a single seller and many buyers?",
+          "options": [
+            "Monopoly",
+            "Oligopoly",
+            "Perfect Competition",
+            "Monopolistic Competition"
+          ],
+          "answer": "Monopoly"
+        },
+        {
+          "question": "Which financial ratio measures a company's profitability?",
+          "options": [
+            "Current Ratio",
+            "Net Profit Margin",
+            "Debt Ratio",
+            "Inventory Turnover Ratio"
+          ],
+          "answer": "Net Profit Margin"
+        },
+        {
+          "question": "Which of the following is a cash inflow from operating activities?",
+          "options": [
+            "Cash received from customers",
+            "Cash paid for equipment",
+            "Interest received on investments",
+            "Dividends paid to shareholders"
+          ],
+          "answer": "Cash received from customers"
+        },
+        {
+          "question": "What is the term for a situation where total revenue equals total cost?",
+          "options": [
+            "Break-even Point",
+            "Profit Maximization",
+            "Cost Minimization",
+            "Revenue Maximization"
+          ],
+          "answer": "Break-even Point"
+        },
+        {
+          "question": "Which of the following is an advantage of debt financing?",
+          "options": [
+            "No obligation to repay funds",
+            "Interest payments are tax-deductible",
+            "Full control retained by the original owners",
+            "No interest payments"
+          ],
+          "answer": "Interest payments are tax-deductible"
+        }
+      ]
+    },
+    {
+      "chapter": "chapter-6",
+      "questions": [
+        {
+          "question": "What is the main goal of a business?",
+          "options": [
+            "Maximize Profits",
+            "Minimize Costs",
+            "Maximize Revenue",
+            "Maximize Market Share"
+          ],
+          "answer": "Maximize Profits"
+        },
+        {
+          "question": "Which of the following is a characteristic of a partnership?",
+          "options": [
+            "Limited Liability",
+            "Unlimited Liability",
+            "Single Owner",
+            "Perpetual Existence"
+          ],
+          "answer": "Unlimited Liability"
+        },
+        {
+          "question": "Which of the following is a function of management?",
+          "options": [
+            "Planning",
+            "Organizing",
+            "Controlling",
+            "All of the above"
+          ],
+          "answer": "All of the above"
+        },
+        {
+          "question": "What is the term for the period during which a business operates at a loss?",
+          "options": [
+            "Start-up Phase",
+            "Break-even Phase",
+            "Profit Phase",
+            "Growth Phase"
+          ],
+          "answer": "Start-up Phase"
+        },
+        {
+          "question": "Which type of market structure is characterized by a few large firms dominating the market?",
+          "options": [
+            "Perfect Competition",
+            "Monopoly",
+            "Oligopoly",
+            "Monopolistic Competition"
+          ],
+          "answer": "Oligopoly"
+        }
+      ]
+    },
+    {
+      "chapter": "chapter-7",
+      "questions": [
+        {
+          "question": "What is the primary purpose of an income statement?",
+          "options": [
+            "Show cash flow",
+            "Report financial position",
+            "Show profitability",
+            "Show shareholder equity"
+          ],
+          "answer": "Show profitability"
+        },
+        {
+          "question": "Which of the following is NOT a component of the marketing mix?",
+          "options": [
+            "Product",
+            "Price",
+            "Promotion",
+            "Profit"
+          ],
+          "answer": "Profit"
+        },
+        {
+          "question": "What is the term for the analysis of a company's internal strengths and weaknesses?",
+          "options": [
+            "SWOT Analysis",
+            "PEST Analysis",
+            "Porter's Five Forces",
+            "Value Chain Analysis"
+          ],
+          "answer": "SWOT Analysis"
+        },
+        {
+          "question": "Which of the following is a method of market research?",
+          "options": [
+            "Surveys",
+            "Focus Groups",
+            "Observations",
+            "All of the above"
+          ],
+          "answer": "All of the above"
+        },
+        {
+          "question": "Which pricing strategy sets prices based on competitors' prices?",
+          "options": [
+            "Cost-Plus Pricing",
+            "Value-Based Pricing",
+            "Penetration Pricing",
+            "Competitive Pricing"
+          ],
+          "answer": "Competitive Pricing"
+        }
+      ]
+    },
+    {
+      "chapter": "chapter-8",
+      "questions": [
+        {
+          "question": "Which of the following is considered an operating expense?",
+          "options": [
+            "Rent",
+            "Inventory Purchases",
+            "Salaries",
+            "Both A and C"
+          ],
+          "answer": "Both A and C"
+        },
+        {
+          "question": "What is the term for the value of a company’s assets minus its liabilities?",
+          "options": [
+            "Market Value",
+            "Book Value",
+            "Equity",
+            "Net Worth"
+          ],
+          "answer": "Equity"
+        },
+        {
+          "question": "Which of the following represents a cash inflow?",
+          "options": [
+            "Cash paid for inventory",
+            "Cash sales to customers",
+            "Cash paid to suppliers",
+            "Cash paid for wages"
+          ],
+          "answer": "Cash sales to customers"
+        },
+        {
+          "question": "Which of the following describes a firm’s fixed costs?",
+          "options": [
+            "They change with the level of production",
+            "They remain constant regardless of production levels",
+            "They are always zero",
+            "They are only incurred when sales are made"
+          ],
+          "answer": "They remain constant regardless of production levels"
+        },
+        {
+          "question": "What is the purpose of a cash flow statement?",
+          "options": [
+            "To show revenues and expenses",
+            "To show how cash is generated and used",
+            "To show profit margins",
+            "To show shareholder equity"
+          ],
+          "answer": "To show how cash is generated and used"
+        }
+      ]
+    },
+    {
+      "chapter": "chapter-9",
+      "questions": [
+        {
+          "question": "What is the primary purpose of a budget?",
+          "options": [
+            "Control spending",
+            "Increase revenue",
+            "Reduce costs",
+            "Improve profitability"
+          ],
+          "answer": "Control spending"
+        },
+        {
+          "question": "Which of the following best describes a limited liability company (LLC)?",
+          "options": [
+            "It is a partnership",
+            "Owners are personally liable for debts",
+            "It combines features of a corporation and a partnership",
+            "It is a sole proprietorship"
+          ],
+          "answer": "It combines features of a corporation and a partnership"
+        },
+        {
+          "question": "Which of the following is a source of long-term finance?",
+          "options": [
+            "Trade Credit",
+            "Bank Overdraft",
+            "Equity Shares",
+            "Short-term Loans"
+          ],
+          "answer": "Equity Shares"
+        },
+        {
+          "question": "Which accounting method recognizes revenue when it is earned?",
+          "options": [
+            "Cash Basis Accounting",
+            "Accrual Basis Accounting",
+            "Hybrid Accounting",
+            "Modified Cash Basis Accounting"
+          ],
+          "answer": "Accrual Basis Accounting"
+        },
+        {
+          "question": "What is the primary goal of financial accounting?",
+          "options": [
+            "To provide information for decision-making",
+            "To prepare budgets",
+            "To assess profitability",
+            "To comply with tax regulations"
+          ],
+          "answer": "To provide information for decision-making"
+        }
+      ]
+    },
+    {
+      "chapter": "chapter-10",
+      "questions": [
+        {
+          "question": "Which of the following describes an oligopoly?",
+          "options": [
+            "Many sellers, similar products",
+            "Few sellers, differentiated products",
+            "Single seller, unique product",
+            "Many sellers, unique products"
+          ],
+          "answer": "Few sellers, differentiated products"
+        },
+        {
+          "question": "What is the term for the cost of lost opportunities?",
+          "options": [
+            "Sunk Cost",
+            "Opportunity Cost",
+            "Fixed Cost",
+            "Variable Cost"
+          ],
+          "answer": "Opportunity Cost"
+        },
+        {
+          "question": "Which of the following financial statements is prepared first?",
+          "options": [
+            "Balance Sheet",
+            "Cash Flow Statement",
+            "Income Statement",
+            "Statement of Changes in Equity"
+          ],
+          "answer": "Income Statement"
+        },
+        {
+          "question": "What is the purpose of variance analysis?",
+          "options": [
+            "To compare actual performance with budgeted performance",
+            "To evaluate employee performance",
+            "To assess customer satisfaction",
+            "To analyze market trends"
+          ],
+          "answer": "To compare actual performance with budgeted performance"
+        },
+        {
+          "question": "Which of the following is a benefit of diversification?",
+          "options": [
+            "Increased risk",
+            "Reduced volatility",
+            "Higher costs",
+            "Increased reliance on one market"
+          ],
+          "answer": "Reduced volatility"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+.login_main_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100dvh;
+  flex-direction: column;
+  gap: 3rem;
+  background: rgb(0, 0, 0);
+  width: 100dvw;
+  position: relative;
+  overflow: hidden;
+}
+.login_main_container h1 {
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+}
+
+.login_box {
+  /* border: 1px solid #ccc; */
+  padding: 20px;
+  border-radius: 10px;
+  width: 35dvw;
+  height: 50dvh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+  position: relative;
+  background: rgb(255, 255, 255);
+  position: fixed;
+  color: rgb(255, 255, 255);
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(50.2px);
+-webkit-backdrop-filter: blur(10.2px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.login_box form {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  /* background: red; */
+  /* height: auto; */
+  /* overflow: hidden; */
+  margin-top: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.login_box input {
+  /* display: flex; */
+  width: 90%;
+  height: .7rem;
+  font-size: 16px;
+  /* margin: 1rem; */
+  margin-bottom: 1.5rem;
+  outline: none;
+  border: none;
+  /* border: 1px rgb(31, 31, 31) solid; */
+  justify-content: center;
+  align-items: center;
+  /* border: none; */
+  /* margin-right: 5rem; */
+
+  padding: 20px;
+  border-radius: 8px;
+  font-family: trap;
+}
+
+.login_box input:nth-child(1) {
+  margin-top: 1rem;
+}
+
+.login_box input::placeholder{
+  font-size: 13px;
+}
+
+.login_box button {
+  padding: 10px;
+  background-color: var(--h);
+  color: white;
+  border: none;
+  cursor: pointer;
+  width: 30%;
+  height: 2.5rem;
+  font-size: 1.3rem;
+  /* display: flex; */
+  /* justify-content: center;
+    align-items: center; */
+  border-radius: 6px;
+  transition: 0.2s ease;
+  font-family: trap;
+  border: 1px rgb(255, 255, 255) solid;
+  text-align: center;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  transition: .2s ease;
+}
+
+.login_box button:hover {
+  background-color: rgb(255, 255, 255);
+  color: black;
+  border: 1px black solid;
+  /* scale: 0.98; */
+}
+
+.login_box p {
+  color: red;
+}
+.buttoncon {
+  width: 100%;
+  /* background: #0056b3; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
+.mobile-view {
+  display: none;
+}
+.error {
+  display: flex;
+  width: max-content;
+  justify-content: center;
+  /* background: darkgoldenrod; */
+  height: 50px;
+  align-items: center;
+  position: absolute;
+  top: -12%;
+  /* right: 0%; */
+  /* left: 0; */
+  width: 100%;
+}
+
+.toast-notification {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #ffcccc;
+  color: #cc0000;
+  padding: 10px 20px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  animation: slideIn 0.5s ease-out, fadeOut 0.5s 2.5s ease-in;
+  z-index: 1000;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateX(-50%) translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+}
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}

@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Admin App</title>
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+     <meta http-equiv="Content-Security-Policy" content="default-src 'self'; connect-src 'self' 
+     ws://192.168.247.85:8080/ http://192.168.247.85:8080/admin-settings 
+     ws://192.168.177.85:8080/ http://192.168.177.85:8080/admin_settings  
+     ws://192.168.184.48:8080/ http://192.168.184.48:8080/admin_settings; 
+     style-src 'self' 'unsafe-inline';">
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

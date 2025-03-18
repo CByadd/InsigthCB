@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Srinivash",
+    "name": "Srinivash",
+    "pass": "pass",
+    "std": "12-B",
+    "idno": "12245"
+  },
+  {
+    "id": "//",
+    "name": "Srinivash-Developer",
+    "pass": "//",
+    "std": "Developer",
+    "idno": "#1",
+    "image":"src/renderer/src/json/Userimages/user.jpeg"
+  },
+  {
+    "id": "Principal",
+    "name": "Bro.Sesuraj csc",
+    "pass": "pass",
+    "std": "Principal",
+    "idno": "#1"
+  },
+  {
+    "id": "Vice Principal",
+    "name": "Mr.Guna",
+    "pass": "pass",
+    "std": "Vice Principal",
+    "idno": "#1" 
+  },
+  {
+    "id": "Jestin",
+    "name": "Jestin",
+    "pass": "pass",
+    "std": "Developer",
+    "idno": "#1"
+  }
+]

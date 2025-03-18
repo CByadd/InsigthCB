@@ -1,0 +1,272 @@
+{
+    "chapters": [
+      {
+      
+            "chapter": 1,
+            "questions": [
+            
+              {
+                "question": "What is the primary objective of financial management?",
+                "options": [
+                  "Profit Maximization",
+                  "Wealth Maximization",
+                  "Sales Maximization",
+                  "Cost Minimization"
+                ],
+                "answer": "Wealth Maximization"
+              },
+              {
+                "question": "Which of the following is an example of a direct tax?",
+                "options": [
+                  "Sales Tax",
+                  "Value Added Tax (VAT)",
+                  "Income Tax",
+                  "Excise Duty"
+                ],
+                "answer": "Income Tax"
+              },
+              {
+                "question": "Which financial statement shows the financial position of a company at a specific point in time?",
+                "options": [
+                  "Income Statement",
+                  "Cash Flow Statement",
+                  "Statement of Retained Earnings",
+                  "Balance Sheet"
+                ],
+                "answer": "Balance Sheet"
+              },
+              {
+                "question": "What is the term for the rate at which one currency can be exchanged for another?",
+                "options": [
+                  "Exchange Rate",
+                  "Interest Rate",
+                  "Inflation Rate",
+                  "Discount Rate"
+                ],
+                "answer": "Exchange Rate"
+              }
+            ]
+          },
+          {
+            "chapter": 2,
+            "questions": [
+              {
+                "question": "Which financial ratio measures a company's ability to meet its short-term obligations?",
+                "options": [
+                  "Current Ratio",
+                  "Debt-to-Equity Ratio",
+                  "Return on Equity",
+                  "Price-to-Earnings Ratio"
+                ],
+                "answer": "Current Ratio"
+              },
+              {
+                "question": "Which of the following is considered a fixed asset?",
+                "options": [
+                  "Inventory",
+                  "Cash",
+                  "Machinery",
+                  "Accounts Receivable"
+                ],
+                "answer": "Machinery"
+              },
+              {
+                "question": "Which accounting concept assumes that a business will continue to operate indefinitely?",
+                "options": [
+                  "Going Concern",
+                  "Consistency",
+                  "Prudence",
+                  "Materiality"
+                ],
+                "answer": "Going Concern"
+              },
+              {
+                "question": "Which of the following is a source of short-term finance?",
+                "options": [
+                  "Trade Credit",
+                  "Equity Shares",
+                  "Debentures",
+                  "Term Loans"
+                ],
+                "answer": "Trade Credit"
+              },
+              {
+                "question": "Which type of business organization has the advantage of limited liability?",
+                "options": [
+                  "Sole Proprietorship",
+                  "Partnership",
+                  "Corporation",
+                  "Cooperative"
+                ],
+                "answer": "Corporation"
+              }
+            ]
+          },
+          {
+            "chapter": 3,
+            "questions": [
+              {
+                "question": "What is the term for the reduction in the value of a currency in terms of another currency?",
+                "options": [
+                  "Depreciation",
+                  "Appreciation",
+                  "Inflation",
+                  "Deflation"
+                ],
+                "answer": "Depreciation"
+              },
+              {
+                "question": "Which of the following is a characteristic of monopolistic competition?",
+                "options": [
+                  "Many Sellers and Buyers",
+                  "Single Seller",
+                  "Barriers to Entry",
+                  "Differentiated Products"
+                ],
+                "answer": "Differentiated Products"
+              },
+              {
+                "question": "Which of the following is a source of external finance?",
+                "options": [
+                  "Bank Loan",
+                  "Retained Earnings",
+                  "Owner’s Capital",
+                  "Revenue from Sales"
+                ],
+                "answer": "Bank Loan"
+              },
+              {
+                "question": "Which financial statement shows a company's revenues and expenses during a specific period?",
+                "options": [
+                  "Balance Sheet",
+                  "Income Statement",
+                  "Cash Flow Statement",
+                  "Statement of Retained Earnings"
+                ],
+                "answer": "Income Statement"
+              },
+              {
+                "question": "What is the term for the money invested by the owners of a business?",
+                "options": [
+                  "Debt",
+                  "Equity",
+                  "Liability",
+                  "Asset"
+                ],
+                "answer": "Equity"
+              }
+            ]
+          },
+          {
+            "chapter": 4,
+            "questions": [
+              {
+                "question": "Which method of depreciation assumes the asset will lose value more quickly in its early years?",
+                "options": [
+                  "Reducing Balance Method",
+                  "Straight Line Method",
+                  "Sum of the Years' Digits",
+                  "Units of Production Method"
+                ],
+                "answer": "Reducing Balance Method"
+              },
+              {
+                "question": "Which of the following is a characteristic of perfect competition?",
+                "options": [
+                  "Many Sellers and Buyers",
+                  "Differentiated Products",
+                  "Barriers to Entry",
+                  "Single Seller"
+                ],
+                "answer": "Many Sellers and Buyers"
+              },
+              {
+                "question": "Which of the following best describes equity financing?",
+                "options": [
+                  "Borrowing money from financial institutions",
+                  "Raising capital by issuing shares",
+                  "Selling fixed assets to raise funds",
+                  "Increasing company profits through cost-cutting"
+                ],
+                "answer": "Raising capital by issuing shares"
+              },
+              {
+                "question": "Which principle states that expenses should be matched with revenues in the period they are incurred?",
+                "options": [
+                  "Matching Principle",
+                  "Revenue Recognition Principle",
+                  "Consistency Principle",
+                  "Full Disclosure Principle"
+                ],
+                "answer": "Matching Principle"
+              },
+              {
+                "question": "Which of the following is a liquidity ratio?",
+                "options": [
+                  "Return on Assets (ROA)",
+                  "Debt-to-Equity Ratio",
+                  "Quick Ratio",
+                  "Earnings Per Share (EPS)"
+                ],
+                "answer": "Quick Ratio"
+              }
+            ]
+          },
+          {
+            "chapter": 5,
+            "questions": [
+              {
+                "question": "What is the term for a market structure with a single seller and many buyers?",
+                "options": [
+                  "Monopoly",
+                  "Oligopoly",
+                  "Perfect Competition",
+                  "Monopolistic Competition"
+                ],
+                "answer": "Monopoly"
+              },
+              {
+                "question": "Which financial ratio measures a company's profitability?",
+                "options": [
+                  "Current Ratio",
+                  "Net Profit Margin",
+                  "Debt Ratio",
+                  "Inventory Turnover Ratio"
+                ],
+                "answer": "Net Profit Margin"
+              },
+              {
+                "question": "Which of the following is a cash inflow from operating activities?",
+                "options": [
+                  "Cash received from customers",
+                  "Cash paid for equipment",
+                  "Interest received on investments",
+                  "Dividends paid to shareholders"
+                ],
+                "answer": "Cash received from customers"
+              },
+              {
+                "question": "What is the term for a situation where total revenue equals total cost?",
+                "options": [
+                  "Break-even Point",
+                  "Profit Maximization",
+                  "Cost Minimization",
+                  "Revenue Maximization"
+                ],
+                "answer": "Break-even Point"
+              },
+              {
+                "question": "Which of the following is an advantage of debt financing?",
+                "options": [
+                  "No obligation to repay funds",
+                  "Interest payments are tax-deductible",
+                  "Full control retained by the original owners",
+                  "No interest payments"
+                ],
+                "answer": "Interest payments are tax-deductible"
+              }
+            ]
+        
+      }
+    ]
+}

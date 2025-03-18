@@ -1,0 +1,174 @@
+{
+    "chapters": [
+      {
+        "chapter": 1,
+        "questions": [
+          {
+            "question": "src/renderer/src/Maths/q1.png",
+            "options": [
+              "q1 (1).png",
+              "q1 (2).png",
+              "q1 (3).png",
+              "q1 (4).png"
+            ],
+        
+            "answer": "src/renderer/src/Maths/q1 (2).png"
+            
+          }
+        ]
+        },
+      {
+        "chapter": 2,
+        "questions": [
+          {
+            "question": "src/renderer/src/Maths/q2.png",
+            "options": [
+              "q2 (1).png",
+              "q2 (2).png",
+              "q2 (3).png",
+              "q2 (4).png"
+            ],
+        
+            "answer": "src/renderer/src/Maths/q2 (2).png"
+            
+          }
+        ]
+        },
+      {
+        "chapter": 3,
+        "questions": [
+          {
+            "question": "src/renderer/src/Maths/q3.png",
+            "options": [
+              "q3 (1).png",
+              "q3 (2).png",
+              "q3 (3).png",
+              "q3 (4).png"
+            ],
+        
+            "answer": "src/renderer/src/Maths/q3 (2).png"
+            
+          }
+        ]
+        },
+      {
+        "chapter": 4,
+        "questions": [
+          {
+            "question": "src/renderer/src/Maths/q4.png",
+            "options": [
+              "q4 (1).png",
+              "q4 (2).png",
+              "q4 (3).png",
+              "q4 (4).png"
+            ],
+        
+            "answer": "src/renderer/src/Maths/q4 (2).png"
+            
+          }
+        ]
+        },
+      {
+        "chapter": 5,
+        "questions": [
+          {
+            "question": "src/renderer/src/Maths/q5.png",
+            "options": [
+              "q5 (1).png",
+              "q5 (2).png",
+              "q5 (3).png",
+              "q5 (4).png"
+            ],
+        
+            "answer": "src/renderer/src/Maths/q5 (2).png"
+            
+          }
+        ]
+        },
+      {
+        "chapter": 6,
+        "questions": [
+          {
+            "question": "src/renderer/src/Maths/q6.png",
+            "options": [
+              "q6 (1).png",
+              "q6 (2).png",
+              "q6 (3).png",
+              "q6 (4).png"
+            ],
+        
+            "answer": "src/renderer/src/Maths/q6 (2).png"
+            
+          }
+        ]
+        },
+      {
+        "chapter": 7,
+        "questions": [
+          {
+            "question": "src/renderer/src/Maths/q7.png",
+            "options": [
+              "q7 (1).png",
+              "q7 (2).png",
+              "q7 (3).png",
+              "q7 (4).png"
+            ],
+        
+            "answer": "src/renderer/src/Maths/q7 (2).png"
+            
+          }
+        ]
+        },
+      {
+        "chapter": 8,
+        "questions": [
+          {
+            "question": "src/renderer/src/Maths/q8.png",
+            "options": [
+              "q8 (1).png",
+              "q8 (2).png",
+              "q8 (3).png",
+              "q8 (4).png"
+            ],
+        
+            "answer": "src/renderer/src/Maths/q8 (2).png"
+            
+          }
+        ]
+        },
+      {
+        "chapter": 9,
+        "questions": [
+          {
+            "question": "src/renderer/src/Maths/q9.png",
+            "options": [
+              "q9 (1).png",
+              "q9 (2).png",
+              "q9 (3).png",
+              "q9 (4).png"
+            ],
+        
+            "answer": "src/renderer/src/Maths/q9 (2).png"
+            
+          }
+        ]
+        },
+      {
+        "chapter": 10,
+        "questions": [
+          {
+            "question": "src/renderer/src/Maths/q10.png",
+            "options": [
+              "q10 (1).png",
+              "q10 (2).png",
+              "q10 (3).png",
+              "q10 (4).png"
+            ],
+        
+            "answer": "src/renderer/src/Maths/q10 (2).png"
+            
+          }
+        ]
+        }
+    ]
+}
